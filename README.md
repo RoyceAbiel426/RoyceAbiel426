@@ -48,7 +48,7 @@ When I’m not coding or learning, you’ll find me:
 
 - [🔗 LinkedIn](https://www.linkedin.com/in/royceabiel)  
 - [🐦 X (Twitter)](https://twitter.com/yourusername)  
-- 📧 Email: [royceabiel26.personal@gmail.com](mailto:royceabiel26.personal@gmail.com)
+- 📧 Email: [royceabiel26.uni@gmail.com](mailto:royceabiel26.uni@gmail.com)
 
 ---
 
