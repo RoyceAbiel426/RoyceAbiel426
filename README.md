@@ -55,12 +55,6 @@ When I’m not coding or learning, you’ll find me:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CroosRRAF&show_icons=true&theme=radical" alt="CroosRRAF's GitHub Stats" width="45%" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CroosRRAF&layout=compact&theme=radical" alt="Top Languages" width="45%" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=CroosRRAF&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
