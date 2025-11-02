@@ -169,7 +169,7 @@ A comprehensive platform connecting chefs with customers, featuring:
 
 ---
 
-### 🎉 Event Pro - Online Event Management
+### 🎉 [Event Pro - Online Event Management](https://github.com/CroosRRAF/Event-pro)
 > **Academic Project** | Java Web Technologies
 
 Full-featured event management system enabling users to:
@@ -181,7 +181,7 @@ Full-featured event management system enabling users to:
 
 ---
 
-### 🧮 Exam Pro - Employee Examination System
+### 🧮 [Exam Pro - Employee Examination System](https://github.com/CroosRRAF/Exam-pro)
 > **First Full-Stack Project** | LAMP Stack
 
 My introduction to full-stack development with:
