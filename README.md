@@ -17,11 +17,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=🚀+Software+Developer+%26+Problem+Solver;⚛️+MERN+Stack+%26+Django+Specialist;🔐+Cybersecurity+Enthusiast;📱+Mobile+App+Developer;🌟+Always+Learning+%26+Growing;💻+Software+Developer;🧩+Problem+Solver;🚀+Tech+Enthusiast;📚+Always+Learning+New+Things;⚡+Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
-
-I'm a **second-year undergraduate** at *SLIIT Northern University*, deeply passionate about **technology** and **innovation**.
+I'm a **second-year undergraduate** at _SLIIT Northern University_, deeply passionate about **technology** and **innovation**.
 Currently, I'm focused on mastering **Full-Stack Web Development** with expertise in the **MERN Stack** and **Django Framework**.
 
 🎯 **My Journey:**
+
 - 🚀 Started with basic programming concepts
 - 💻 Evolved into full-stack development
 - 🔐 Exploring cybersecurity fundamentals
@@ -41,7 +41,7 @@ const royce = {
   focus: ["Full-Stack Development", "MERN Stack", "Django", "Cyber Security"],
   learning: ["React.js", "Node.js", "Django", "MongoDB"],
   interests: ["Web Development", "Data Analytics", "Penetration Testing"],
-  motto: "Building real-world solutions, one project at a time"
+  motto: "Building real-world solutions, one project at a time",
 };
 ```
 
@@ -86,32 +86,36 @@ const royce = {
 <div align="center">
 
 ### 💻 Frontend Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma" alt="Frontend Skills" />
 </p>
 
 ### ⚙️ Backend Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,php,python,java" alt="Backend Skills" />
 </p>
 
 ### 🗄️ Databases & Cloud
+
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,aws,gcp" alt="Database Skills" />
 </p>
 
 ### 📱 Mobile & Desktop
+
 <p>
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,electron" alt="Mobile Skills" />
 </p>
 
 ### 🧰 Tools & Platforms
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" alt="Tools" />
 </p>
 
 </div>
-
 
 ## 🧠 Tech Stack Summary
 
@@ -151,15 +155,16 @@ const royce = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-
 ---
 
 ## 💼 Featured Projects
 
 ### 🍳 [ChefSync - Cloud Kitchen Management System](https://github.com/CroosRRAF/ChefSync)
+
 > **In Development** | Django + React
 
 A comprehensive platform connecting chefs with customers, featuring:
+
 - 🔐 Role-based authentication & authorization
 - 📱 Real-time order management system
 - 👨‍🍳 Chef & customer dashboards
@@ -170,9 +175,11 @@ A comprehensive platform connecting chefs with customers, featuring:
 ---
 
 ### 🎉 [Event Pro - Online Event Management](https://github.com/CroosRRAF/Event-pro)
+
 > **Academic Project** | Java Web Technologies
 
 Full-featured event management system enabling users to:
+
 - Create and manage events
 - Handle registrations and attendees
 - Generate event reports
@@ -182,9 +189,11 @@ Full-featured event management system enabling users to:
 ---
 
 ### 🧮 [Exam Pro - Employee Examination System](https://github.com/CroosRRAF/Exam-pro)
+
 > **First Full-Stack Project** | LAMP Stack
 
 My introduction to full-stack development with:
+
 - User authentication system
 - Exam creation and management
 - Results tracking and analytics
@@ -222,11 +231,17 @@ My introduction to full-stack development with:
   <img width="90%" src="https://github-profile-trophy.vercel.app/?username=CroosRRAF&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
 </p>
 
+### ⭐ **Top Contributed Repos**
+
+<p align="center">
+  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=CroosRRAF&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</p>
+
 </div>
 
 ---
 
-## 📚 Outside of Code ##
+## 📚 Outside of Code
 
 When I’m not coding or learning, you’ll usually find me:
 
@@ -240,7 +255,7 @@ When I’m not coding or learning, you’ll usually find me:
 
 ---
 
-## 🎯 2025 Goals & Future Aspirations ##
+## 🎯 2025 Goals & Future Aspirations
 
 **📋 Short-term Goals (2025)**
 
@@ -298,4 +313,3 @@ _Keep learning, keep growing, keep coding!_ 🚀
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](#)
 
 </div>
-
