@@ -267,9 +267,8 @@ When I’m not coding or learning, you’ll usually find me:
 
 **🚀 Upcoming Projects**
 
-- 📱 **Mobile Recipe App** - React Native
-- 🏪 **Expense Management Platform** - Full MERN Stack
-- 🔐 **Security Audit Tool** - Python & Django
+- 💰 **Online Expense Tracker** - MERN
+- 🏫 [**Online School Management System** - MERN](https://github.com/CroosRRAF/Edu-pro)
 
 **🌟 Long-term Aspirations**
 
@@ -310,6 +309,6 @@ _Keep learning, keep growing, keep coding!_ 🚀
 **⭐ If you like my work, consider starring my repositories!**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](#)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/10xoFYma92drXLRM21a6ES73Dc4rUFHC-/view?usp=sharing)
 
 </div>
