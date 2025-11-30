@@ -174,7 +174,7 @@ A comprehensive platform connecting chefs with customers, featuring:
 
 ---
 
-### 🎉 [Event Pro - Online Event Management](https://github.com/CroosRRAF/Event-pro)
+### 🎉 [Event Pro - Online Event Management](https://github.com/CroosRRAF/Event-Management-System)
 
 > **Academic Project** | Java Web Technologies
 
@@ -188,7 +188,7 @@ Full-featured event management system enabling users to:
 
 ---
 
-### 🧮 [Exam Pro - Employee Examination System](https://github.com/CroosRRAF/Exam-pro)
+### 🧮 [Exam Pro - Employee Examination System](https://github.com/CroosRRAF/Exam-Management-System)
 
 > **First Full-Stack Project** | LAMP Stack
 
@@ -267,8 +267,8 @@ When I’m not coding or learning, you’ll usually find me:
 
 **🚀 Upcoming Projects**
 
-- 💰 **Online Expense Tracker** - MERN
-- 🏫 [**Online School Management System** - MERN](https://github.com/CroosRRAF/Edu-pro)
+- 💰 [**Online Expense Tracker** - PERN](https://github.com/CroosRRAF/Expense-Management-System)
+- 🏫 [**Online School Management System** - MERN](https://github.com/CroosRRAF/School-Management-System)
 
 **🌟 Long-term Aspirations**
 
