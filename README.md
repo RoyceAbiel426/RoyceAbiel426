@@ -52,7 +52,7 @@ const royce = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/royceabiel426)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CroosRRAF)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RoyceAbiel426)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:royceabiel26.uni@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/royce_abiel)
 
@@ -159,7 +159,7 @@ const royce = {
 
 ## 💼 Featured Projects
 
-### 🍳 [ChefSync - Cloud Kitchen Management System](https://github.com/CroosRRAF/ChefSync)
+### 🍳 [ChefSync - Cloud Kitchen Management System](https://github.com/RoyceAbiel426/ChefSync)
 
 > **In Development** | Django + React
 
@@ -174,7 +174,7 @@ A comprehensive platform connecting chefs with customers, featuring:
 
 ---
 
-### 🎉 [Event Pro - Online Event Management](https://github.com/CroosRRAF/Event-Management-System)
+### 🎉 [Event Pro - Online Event Management](https://github.com/RoyceAbiel426/Event-Management-System)
 
 > **Academic Project** | Java Web Technologies
 
@@ -188,7 +188,7 @@ Full-featured event management system enabling users to:
 
 ---
 
-### 🧮 [Exam Pro - Employee Examination System](https://github.com/CroosRRAF/Exam-Management-System)
+### 🧮 [Exam Pro - Employee Examination System](https://github.com/RoyceAbiel426/Exam-Management-System)
 
 > **First Full-Stack Project** | LAMP Stack
 
@@ -209,32 +209,32 @@ My introduction to full-stack development with:
 ### 🏆 **GitHub Overview**
 
 <p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CroosRRAF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CroosRRAF&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RoyceAbiel426&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyceAbiel426&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
 </p>
 
 ### 🔥 **Contribution Streak**
 
 <p>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=CroosRRAF&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=RoyceAbiel426&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### 📈 **Activity Graph**
 
 <p>
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=CroosRRAF&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=RoyceAbiel426&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ### 🏅 **GitHub Trophies**
 
 <p>
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=CroosRRAF&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=RoyceAbiel426&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
 </p>
 
 ### ⭐ **Top Contributed Repos**
 
 <p align="center">
-  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=CroosRRAF&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=RoyceAbiel426&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </p>
 
 </div>
@@ -267,8 +267,8 @@ When I’m not coding or learning, you’ll usually find me:
 
 **🚀 Upcoming Projects**
 
-- 💰 [**Online Expense Tracker** - PERN](https://github.com/CroosRRAF/Expense-Management-System)
-- 🏫 [**Online School Management System** - MERN](https://github.com/CroosRRAF/School-Management-System)
+- 💰 [**Online Expense Tracker** - PERN](https://github.com/RoyceAbiel426/Expense-Management-System)
+- 🏫 [**Online School Management System** - MERN](https://github.com/RoyceAbiel426/School-Management-System)
 
 **🌟 Long-term Aspirations**
 
@@ -283,16 +283,16 @@ When I’m not coding or learning, you’ll usually find me:
 <div align="center">
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=CroosRRAF&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/CroosRRAF?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/CroosRRAF?label=Total%20Stars&style=flat&color=yellow" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=RoyceAbiel426&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/RoyceAbiel426?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/RoyceAbiel426?label=Total%20Stars&style=flat&color=yellow" alt="GitHub Stars" />
 </p>
 
 **"The expert in anything was once a beginner."** ✨
 
 _Keep learning, keep growing, keep coding!_ 🚀
 
-⭐️ From [CroosRRAF](https://github.com/CroosRRAF)
+⭐️ From [RoyceAbiel426](https://github.com/RoyceAbiel426)
 
 </div>
 
