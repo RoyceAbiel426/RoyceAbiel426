@@ -5,19 +5,32 @@
 <h1 align="center">Hi there, I'm Royce Abiel 👋</h1>
 
 <p align="center">
-🎓 Undergraduate @ <strong>SLIIT Northern Uni</strong> &nbsp;|&nbsp; 💻 2nd Year, 2nd Semester <br>
-🔧 Web Dev Learner (MERN & Django) &nbsp;|&nbsp; 🔐 Cyber Security Enthusiast
+🎓 Undergraduate @ <strong>SLIIT Northern Uni</strong> &nbsp;|&nbsp; 💻 3rd Year, 1st Semester <br>
+🔧 Full-Stack Developer (MERN & Django) &nbsp;
 </p>
 
 ---
 
-## 🚀 About Me
+## � Table of Contents
+
+- [About Me](#-about-me)
+- [Let's Connect](#-lets-connect)
+- [Open for Collaboration](#-open-for-collaboration)
+- [Tech Arsenal & Skills](#-tech-arsenal--skills)
+- [Featured Projects](#-featured-projects)
+- [Experience](#-experience)
+- [GitHub Analytics](#-github-analytics--statistics)
+- [Goals & Aspirations](#-2026-goals--future-aspirations)
+
+---
+
+## �🚀 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=🚀+Software+Developer+%26+Problem+Solver;⚛️+MERN+Stack+%26+Django+Specialist;🔐+Cybersecurity+Enthusiast;📱+Mobile+App+Developer;🌟+Always+Learning+%26+Growing;💻+Software+Developer;🧩+Problem+Solver;🚀+Tech+Enthusiast;📚+Always+Learning+New+Things;⚡+Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=🚀+Software+Developer+%26+Problem+Solver;⚛️+MERN+Stack+%26+Django+Specialist;📱+Mobile+App+Developer;🌟+Always+Learning+%26+Growing;💻+Software+Developer;🧩+Problem+Solver;🚀+Tech+Enthusiast;📚+Always+Learning+New+Things;⚡+Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
-I'm a **second-year undergraduate** at _SLIIT Northern University_, deeply passionate about **technology** and **innovation**.
+I'm a **third-year undergraduate** at _SLIIT Northern University_, deeply passionate about **technology** and **innovation**.
 Currently, I'm focused on mastering **Full-Stack Web Development** with expertise in the **MERN Stack** and **Django Framework**.
 
 🎯 **My Journey:**
@@ -36,10 +49,9 @@ While I have a growing curiosity for **Cybersecurity**, my current priority is d
 const royce = {
   location: "Jaffna, Sri Lanka 🇱🇰",
   education: "BSc (Hons) IT - Data Science @ SLIIT Northern Uni",
-  currentYear: "2nd Year, 2nd Semester",
-  currentGPA: 3.22,
-  focus: ["Full-Stack Development", "MERN Stack", "Django", "Cyber Security"],
-  learning: ["React.js", "Node.js", "Django", "MongoDB"],
+  currentYear: "3rd Year, 1st Semester",
+  currentCGPA: 3.29,
+  focus: ["Full-Stack Development", "MERN Stack", "Django"],
   interests: ["Web Development", "Data Analytics", "Penetration Testing"],
   motto: "Building real-world solutions, one project at a time",
 };
@@ -161,7 +173,7 @@ const royce = {
 
 ### 🍳 [ChefSync - Cloud Kitchen Management System](https://github.com/RoyceAbiel426/ChefSync)
 
-> **In Development** | Django + React
+> **Real World Application** | Django + React
 
 A comprehensive platform connecting chefs with customers, featuring:
 
@@ -202,7 +214,29 @@ My introduction to full-stack development with:
 
 ---
 
-## 📊 GitHub Analytics & Statistics
+
+## � Experience
+
+### 🎯 Current Status
+
+- **🔍 Actively Seeking:** Internship opportunities in Full-Stack Development
+- **📍 Location:** Jaffna, Sri Lanka
+- **⏰ Available:** Flexible hours for learning & collaboration
+
+### 📞 Call to Hire
+
+<div align="center">
+
+**Interested in working together?**
+
+[![Email](https://img.shields.io/badge/📧%20Email-royceabiel26.uni@gmail.com-EA4335?style=for-the-badge)](mailto:royceabiel26.uni@gmail.com)
+[![Phone](https://img.shields.io/badge/📱%20Phone-0740750575-25D366?style=for-the-badge)](tel:0740750575)
+
+</div>
+
+---
+
+## �📊 GitHub Analytics & Statistics
 
 <div align="center">
 
@@ -255,15 +289,16 @@ When I’m not coding or learning, you’ll usually find me:
 
 ---
 
-## 🎯 2025 Goals & Future Aspirations
+## 🎯 2026 Goals & Future Aspirations
 
-**📋 Short-term Goals (2025)**
+**📋 Short-term Goals (2026)**
 
+- [ ] Secure an internship in Full-Stack Development
 - [ ] Master the MERN stack for production applications
-- [ ] Build and deploy 3 full-stack projects
-- [ ] Contribute to open-source projects
-- [ ] Dive deeper into Cyber Security
-- [ ] Complete Django certification
+- [ ] Build and deploy 2 additional full-stack projects
+- [ ] Contribute actively to open-source projects
+- [ ] Dive deeper into Data Science fundamentals
+- [ ] Obtain relevant industry certifications (Django, AWS, or similar)
 
 **🚀 Upcoming Projects**
 
@@ -273,10 +308,10 @@ When I’m not coding or learning, you’ll usually find me:
 **🌟 Long-term Aspirations**
 
 - 🌍 Master advanced full-stack development
-- 🔐 Become proficient in cybersecurity
 - 📱 Build impactful mobile applications
 - 🤖 Contribute to global tech communities
 - 💼 Land a role at a leading tech company
+- 🔐 Become proficient in cybersecurity
 
 ---
 
@@ -304,7 +339,8 @@ _Keep learning, keep growing, keep coding!_ 🚀
 
 <div align="center">
 
-> **🖋️ © 2025 — Royce Abiel Francis Croos | Made with ❤️ and lots of ☕**
+> **🖋️ © 2026 — Royce Abiel Francis Croos | Made with ❤️ and lots of ☕**
+> **🔄 Last Updated:** January 26, 2026
 
 **⭐ If you like my work, consider starring my repositories!**
 
