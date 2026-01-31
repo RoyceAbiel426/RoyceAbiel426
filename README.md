@@ -16,7 +16,7 @@
 - [About Me](#-about-me)
 - [Let's Connect](#-lets-connect)
 - [Open for Collaboration](#-open-for-collaboration)
-- [Tech Arsenal & Skills](#-tech-arsenal--skills)
+- [Tech Arsenal & Skills](#️-tech-arsenal--skills)
 - [Featured Projects](#-featured-projects)
 - [Experience](#-experience)
 - [GitHub Analytics](#-github-analytics--statistics)
@@ -97,35 +97,50 @@ const royce = {
 
 <div align="center">
 
-### 💻 Frontend Development
+<details>
+<summary><h3 style="display: inline;">💻 Frontend Development</h3></summary>
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma" alt="Frontend Skills" />
 </p>
 
-### ⚙️ Backend Development
+</details>
+
+<details>
+<summary><h3 style="display: inline;">⚙️ Backend Development</h3></summary>
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,php,python,java" alt="Backend Skills" />
 </p>
 
-### 🗄️ Databases & Cloud
+</details>
+
+<details>
+<summary><h3 style="display: inline;">🗄️ Databases & Cloud</h3></summary>
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,aws,gcp" alt="Database Skills" />
 </p>
 
-### 📱 Mobile & Desktop
+</details>
+
+<details>
+<summary><h3 style="display: inline;">📱 Mobile & Desktop</h3></summary>
 
 <p>
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,electron" alt="Mobile Skills" />
 </p>
 
-### 🧰 Tools & Platforms
+</details>
+
+<details>
+<summary><h3 style="display: inline;">🧰 Tools & Platforms</h3></summary>
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" alt="Tools" />
 </p>
+
+</details>
 
 </div>
 
@@ -171,9 +186,10 @@ const royce = {
 
 ## 💼 Featured Projects
 
-### 🍳 [ChefSync - Cloud Kitchen Management System](https://github.com/RoyceAbiel426/ChefSync)
+<details>
+<summary><h3 style="display: inline;">🍳 ChefSync - Cloud Kitchen Management System</h3></summary>
 
-> **Real World Application** | Django + React
+> **Real World Application** | Django + React | [View on GitHub](https://github.com/RoyceAbiel426/ChefSync)
 
 A comprehensive platform connecting chefs with customers, featuring:
 
@@ -184,11 +200,14 @@ A comprehensive platform connecting chefs with customers, featuring:
 
 **Tech:** `Django (Backend)` `React.js (Frontend)` `MySQL` `REST API`
 
+</details>
+
 ---
 
-### 🎉 [Event Pro - Online Event Management](https://github.com/RoyceAbiel426/Event-Management-System)
+<details>
+<summary><h3 style="display: inline;">🎉 Event Pro - Online Event Management</h3></summary>
 
-> **Academic Project** | Java Web Technologies
+> **Academic Project** | Java Web Technologies | [View on GitHub](https://github.com/RoyceAbiel426/Event-Management-System)
 
 Full-featured event management system enabling users to:
 
@@ -198,11 +217,14 @@ Full-featured event management system enabling users to:
 
 **Tech:** `Java` `JSP` `Servlets` `MySQL`
 
+</details>
+
 ---
 
-### 🧮 [Exam Pro - Employee Examination System](https://github.com/RoyceAbiel426/Exam-Management-System)
+<details>
+<summary><h3 style="display: inline;">🧮 Exam Pro - Employee Examination System</h3></summary>
 
-> **First Full-Stack Project** | LAMP Stack
+> **First Full-Stack Project** | LAMP Stack | [View on GitHub](https://github.com/RoyceAbiel426/Exam-Management-System)
 
 My introduction to full-stack development with:
 
@@ -211,6 +233,8 @@ My introduction to full-stack development with:
 - Results tracking and analytics
 
 **Tech:** `HTML` `CSS` `JavaScript` `PHP` `MySQL` `XAMPP`
+
+</details>
 
 ---
 
