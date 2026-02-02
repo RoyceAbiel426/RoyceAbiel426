@@ -299,6 +299,16 @@ My introduction to full-stack development with:
 
 ---
 
+## ✍️ Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
 ## 📚 Outside of Code
 
 When I’m not coding or learning, you’ll usually find me:
