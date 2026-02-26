@@ -42,7 +42,7 @@ const royce = {
   status:     "🟢 Actively seeking internship opportunities",
   education:  "BSc (Hons) IT – Data Science @ SLIIT Northern University",
   exploring:  ["Data Science", "Mobile App Development", "Web Development"],
-  roles:     ["Full-Stack Developer", "Data Science Undergraduate", "SQL Developer", "Mobile App Developer"],
+  roles:      ["Full-Stack Developer", "Data Science Undergraduate", "SQL Developer", "Mobile App Developer"],
 };
 ```
 
@@ -90,11 +90,6 @@ I'm a third-year undergraduate passionate about building **scalable, real-world 
 - [ ] Contribute actively to open-source projects
 - [ ] Dive deeper into Data Science fundamentals
 - [ ] Obtain relevant industry certifications (Django, AWS, or similar)
-
-**🚀 Upcoming Projects**
-
-- 💰 [**Online Expense Tracker** - PERN](https://github.com/RoyceAbiel426/Expense-Management-System)
-- 🏫 [**Online School Management System** - MERN](https://github.com/RoyceAbiel426/School-Management-System)
 
 **🌟 Long-term Aspirations**
 
