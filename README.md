@@ -11,7 +11,7 @@
   <a href="mailto:royceabiel26.uni@gmail.com">
     <img src="https://img.shields.io/badge/Email-Hire%20Me-555555?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=555555"/>
   </a>
-  <a href="https://drive.google.com/file/d/10xoFYma92drXLRM21a6ES73Dc4rUFHC-/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1uXgkE0bQ0dSBMX686y2PkZpSm9yqmMSP/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-View%20PDF-555555?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=4285F4&color=555555"/>
   </a>
   <a href="https://x.com/royce_abiel">
