@@ -46,37 +46,40 @@ const royce = {
 };
 ```
 
-I'm a third-year undergraduate passionate about building **scalable, real-world web applications**. I specialize in **MERN Stack** and **Django**, with a growing interest in **Data Science** and **Penetration Testing**. I learn fast, ship clean code, and love collaborating on meaningful projects.
+<!-- I'm a third-year undergraduate passionate about building **scalable, real-world web applications**. I specialize in **MERN Stack** and **Django**, with a growing interest in **Data Science** and **Penetration Testing**. I learn fast, ship clean code, and love collaborating on meaningful projects.
 
-> 💼 **I'm actively looking for internship opportunities in Full-Stack / Software Development.** If you're hiring, let's talk!
+> 💼 **I'm actively looking for internship opportunities in Full-Stack / Software Development.** If you're hiring, let's talk! -->
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind,figma,nodejs,express,python,django,fastapi,php,java,mongodb,mysql,postgres,redis,firebase,aws,docker,kotlin,androidstudio,git,github,vscode,postman,linux&perline=10"/> </p>
+<p align="center">
+  <!-- Frontend / Design / Mobile / Backend / Databases -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind,materialui,figma,nodejs,express,nestjs,python,django,fastapi,flask,php,laravel,java,spring,mongodb,mysql,postgres,redis,firebase,aws,docker,kotlin,androidstudio,reactnative,redux,git,github,vscode,postman,linux&perline=10" />
+</p>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<!-- <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoyceAbiel426&theme=tokyonight" alt="Profile Details" />
-</p>
+</p> -->
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=RoyceAbiel426&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=RoyceAbiel426&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RoyceAbiel426&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RoyceAbiel426&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RoyceAbiel426&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+  <!-- <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RoyceAbiel426&theme=tokyonight&utcOffset=5.5" alt="Productive Time" /> -->
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RoyceAbiel426&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
+</p> -->
 
 ---
 
@@ -84,23 +87,25 @@ I'm a third-year undergraduate passionate about building **scalable, real-world 
 
 **📋 Short-term Goals (2026)**
 
-- [ ] Secure an internship in Full-Stack Development
+- [X] Secure an internship in Full-Stack Development
 - [ ] Master the MERN stack for production applications
 - [ ] Build and deploy 2 additional full-stack projects
-- [ ] Contribute actively to open-source projects
+- [X] Contribute actively to open-source projects
 - [ ] Dive deeper into Data Science fundamentals
 - [ ] Obtain relevant industry certifications (Django, AWS, or similar)
 
+<!-- 
 **🌟 Long-term Aspirations**
 
 - 🌍 Master advanced full-stack development
 - 📱 Build impactful mobile applications
 - 🤖 Contribute to global tech communities
 - 💼 Land a role at a leading tech company
-- 🔐 Become proficient in cybersecurity
+- 🔐 Become proficient in cybersecurity 
+-->
 
 ---
-
+<!-- 
 ## 🤝 Open for Collaboration
 
 > **Let's build something amazing together!**
@@ -149,13 +154,14 @@ I'm available for **internships**, **collaborations**, and **freelance projects*
   </a>
 </p>
 
----
+--- 
 
 ### ✍️ Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
+-->
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer&text=Thanks%20for%20visiting!%20⭐%20Star%20a%20repo%20if%20you%20like%20my%20work&fontSize=16&fontColor=a0aec0&animation=twinkling&fontAlignY=75" />
@@ -164,7 +170,7 @@ I'm available for **internships**, **collaborations**, and **freelance projects*
 <div align="center">
 
 > **🖋️ © 2026 — Royce Abiel Francis Croos | Made with ❤️ and lots of ☕**
-> 🔄 Last Updated: **February 26, 2026**
+> 🔄 Last Updated: **April 08, 2026**
 
 **⭐ If you like my work, consider starring my repositories!**
 
